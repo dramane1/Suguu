@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "suguu": "suguu",
+    "default": "suguu",
+    "staging": "suguu"
+  }
+}
